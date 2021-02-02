@@ -1,0 +1,1 @@
+# DoomFire without functions.
